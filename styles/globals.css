@@ -16,6 +16,20 @@ a {
   margin: 0 auto;
 }
 
+label {
+  display: block;
+  margin-bottom: .2em;
+}
+
+button {
+  color: white;
+  background-color: red;
+  padding: .8em 1em;
+  border: 0;
+  border-radius: .2em;
+  ;
+}
+
 nav {
   margin: 10px auto 80px;
   padding: 10px 0;
