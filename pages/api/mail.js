@@ -14,7 +14,7 @@ export default async = (req, res) => {
     const data = {
         to:"peamjo@outlook.com",
         from:"hello@peamjo.com",
-        subject: "New web form message!",
+        subject: "New Web Form message!",
         text: message,
         html: message.replace(/\r\n/g, "<br>")
     };
